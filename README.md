@@ -2,4 +2,7 @@
 Anastasiya, Mofe
 <br>
 11/14/24 created website
-<br> opened gitkraken
+<br>
+Business Name: Cat Cave 
+<br>
+We sell cats.
