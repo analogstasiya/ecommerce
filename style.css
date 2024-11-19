@@ -1,35 +1,37 @@
- h1, h2{
-text-align:center;
-}
+         h1 {
+            font-size: 72px;
+            text-align: center;
+        }
 
- h1{
-     font-size:50px;
- }
+        div.gallery {
+            margin: 5px;
+            border: 0px solid #ccc;
+            float: left;
+        }
 
-div.gallery {
-  margin: 5px;
-  border: 0px solid #ccc;
-  float: left;
-  
-}
+        div.desc {
+            padding: 15px;
+            text-align: left;
+        }
 
-div.desc {
-  padding: 15px;
-  text-align: left;
-}
+        .product {
+            width: 490px;
+            height: 490px;
+        }
 
-img{
-width:300px;
-height:300px;
-}
+        a:link {
+            background-color: white;
+            color: black;
+            text-decoration: none;
+            padding: 14px 20px;
+        }
 
-a:link {
-    background-color: white;
-    color: black;
-    text-decoration: none;
-    padding: 14px 20px;
-}
+        a:hover {
+            text-decoration: underline;
+            color: slategrey
+        }
 
+<<<<<<< HEAD
 a:hover {
     text-decoration: underline;
     color: slategrey
@@ -42,3 +44,8 @@ a:visited {
     width: 470px;
     height: 470px;
 }
+=======
+        a:visited {
+            color: black;
+        }
+>>>>>>> main
