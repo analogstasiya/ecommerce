@@ -2,6 +2,10 @@
 text-align:center;
 }
 
+ h1{
+     font-size:50px;
+ }
+
 div.gallery {
   margin: 5px;
   border: 0px solid #ccc;
@@ -17,4 +21,24 @@ div.desc {
 img{
 width:300px;
 height:300px;
+}
+
+a:link {
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    padding: 14px 20px;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: slategrey
+}
+
+a:visited {
+    color: black;
+}
+.product {
+    width: 480px;
+    height: 480px;
 }
