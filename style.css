@@ -18,7 +18,10 @@
             width: 490px;
             height: 490px;
         }
-
+        img{
+            width:300px;
+            height:300px;
+        }
         a:link {
             background-color: white;
             color: black;
